@@ -1,0 +1,19 @@
+.container-fluid {
+  padding: 0;
+}
+
+.logo {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #343a40;
+}
+
+#tsparticles {
+  height: 100vh;
+}
