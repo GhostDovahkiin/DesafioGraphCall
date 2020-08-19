@@ -9,7 +9,7 @@
 [star-badge]: https://img.shields.io/github/stars/ghostdovahkiin/DesafioGraphCall?color=8257E5&logo=github
 [last-commit-badge]: https://img.shields.io/github/last-commit/ghostdovahkiin/DesafioGraphCall?color=%238257E5
 [codacy-badge]: https://app.codacy.com/project/badge/Grade/b2d32fa731984f3e9c3eaa814861c9db
-[vercel-url]: https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world
+[vercel-url]: https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2FGhostDovahkiin%2FDesafioGraphCall
 [license-url]: https://github.com/ghostdovahkiin/DesafioGraphCall/blob/master/LICENSE
 [issues-url]: https://github.com/ghostdovahkiin/DesafioGraphCall/issues/
 [node-url]: https://nodejs.org/en
