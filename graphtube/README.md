@@ -34,7 +34,6 @@
 
 [![License][license-badge]][license-url]
 ![Git Stars][star-badge]
-![NLW Stats][nlw-badge]
 ![Codacy Quality][codacy-badge]
 [![Deploy with Vercel](https://vercel.com/button)][vercel-url]
 
